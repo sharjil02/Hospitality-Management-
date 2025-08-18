@@ -4,7 +4,7 @@ This is a dynamic Excel dashboard built for managing and analyzing hotel booking
 
 Porject link-
 
-🔗 [https://1drv.ms/f/c/0e7473d81e649488/En1v7LyfGtZBtnGa1IhDq2QBn_6mEaK_gtGDV5yrtzRc5A?e=hma7Vb)
+🔗 [https://1drv.ms/f/c/0e7473d81e649488/ErzCcm9WeLpJuP22Ii1AqOQBMikDgU3rxNROABnC3S2J4A?e=Ywtr9I)
 ## 🔍 Dashboard Features
 - Total bookings, revenue, and room occupancy rate
 - Monthly and yearly trends
