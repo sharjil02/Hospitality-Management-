@@ -2,6 +2,7 @@
 
 This is a dynamic Excel dashboard built for managing and analyzing hotel booking data. It includes key KPIs and visualizations to help track performance and bookings efficiently.
 
+🔗 [https://1drv.ms/f/c/0e7473d81e649488/En1v7LyfGtZBtnGa1IhDq2QBn_6mEaK_gtGDV5yrtzRc5A?e=hma7Vb)
 ## 🔍 Dashboard Features
 - Total bookings, revenue, and room occupancy rate
 - Monthly and yearly trends
@@ -19,6 +20,7 @@ This is a dynamic Excel dashboard built for managing and analyzing hotel booking
 ## 👨‍💻 Author
 **Sharjil Bin Rashed**  
 CSE Undergrade Student At IIUC | Data Analyst in Training  
-📧 sharjil0506@gmail.com
+📧 sharjil0506@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sharjil-bin-rashed-105272357/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sharjil-bin-rashed-105272357/)  
+
