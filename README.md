@@ -24,5 +24,5 @@ Porject link-
 CSE Undergrade Student At IIUC | Data Analyst in Training  
 📧 sharjil0506@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sharjil-bin-rashed-105272357/)  
+
 
